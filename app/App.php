@@ -1,6 +1,7 @@
 <?php
 
 declare(strict_types = 1);
+<<<<<<< HEAD
 
 // Your Code
 $data = [];
